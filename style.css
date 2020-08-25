@@ -34,38 +34,53 @@
     height: 100px;
     width: 100px;
 }
-h1,h2,h3
+h1
 {
     font-family: 'Pacifico', cursive;
     color: #a6444c;
+    font-size: 500%;
+}
+h2
+{
+    font-family: 'Pacifico', cursive;
+    color: #a6444c;
+    font-size: 400%;
+}
+h3
+{
+    font-family: 'Pacifico', cursive;
+    color: #8c654f;
+    font-size: 300%;
+}
+h4
+{
+    font-family: 'Pacifico', cursive;
+    color: #8c654f;
+    font-size: 200%;
 }
 p
 {
     font-family: 'Montserrat Alternates', sans-serif;
 }
-letra2{
+.letra
+{
+    color: #a6444c;
+    font-family: "Londrina Solid", cursive;
+    font-size: 90%;
+}
+.letra2{
     color: #8c654f;
+}
+.letra3{
+    color: #a6444c;
 }
 .img2{
     height: 750px;
 }
-.social-icons a {
-    display: inline-block;
-    height: 3.5rem;
-    width: 3.5rem;
-    background-color: #495057;
-    color: #fff !important;
-    border-radius: 100%;
-    text-align: center;
-    font-size: 1.5rem;
-    line-height: 3.5rem;
-    margin-right: 1rem;
+.social-icons {
+    width: 50px;
   }
-  
-  .social-icons a:last-child {
-    margin-right: 0;
-  }
-  
-  .social-icons a:hover {
-    background-color: #593532;
+  section
+  {
+    height: 780px;
   }
