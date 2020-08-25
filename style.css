@@ -16,20 +16,14 @@
 }
 .fondo_nav {
   background-color: #f2d8ce;
-  padding: 12px;
-  display: block;
   text-decoration: none;
   color: #8c654f;
+  font-family: "Londrina Solid", cursive;
 }
 .fondo_nav a:hover {
   background-color: #a6444c;
   color: #bfbfbf;
 }
-.fondo1 {
-    background-color: #f2d8ce;
-    font-family: "Londrina Solid", cursive;
-    font-size: 150%;
-  }
   .fondo2 {
     background-color: #f2d8ce;
     font-family: "Londrina Solid", cursive;
@@ -78,15 +72,8 @@ p
 .letra3{
     color: #a6444c;
 }
-.img2{
-    height: 750px;
-}
 .social-icons {
     width: 50px;
-  }
-  section
-  {
-    height: 780px;
   }
 ul{
     font-family: 'Montserrat Alternates', sans-serif;
