@@ -1,0 +1,71 @@
+/* Color Theme Swatches in Hex */
+.color1 {
+  color: #a6444c;
+}
+.color2 {
+  color: #8c654f;
+}
+.color3 {
+  color: #f2d8ce;
+}
+.color4 {
+  color: #d9d9d9;
+}
+.color5 {
+  color: #bfbfbf;
+}
+.fondo_nav {
+  background-color: #f2d8ce;
+  padding: 12px;
+  display: block;
+  text-decoration: none;
+  color: #8c654f;
+}
+.fondo_nav a:hover {
+  background-color: #a6444c;
+  color: #bfbfbf;
+}
+.fondo1 {
+    background-color: #f2d8ce;
+    font-family: "Londrina Solid", cursive;
+    font-size: 150%;
+  }
+.img{
+    height: 100px;
+    width: 100px;
+}
+h1,h2,h3
+{
+    font-family: 'Pacifico', cursive;
+    color: #a6444c;
+}
+p
+{
+    font-family: 'Montserrat Alternates', sans-serif;
+}
+letra2{
+    color: #8c654f;
+}
+.img2{
+    height: 750px;
+}
+.social-icons a {
+    display: inline-block;
+    height: 3.5rem;
+    width: 3.5rem;
+    background-color: #495057;
+    color: #fff !important;
+    border-radius: 100%;
+    text-align: center;
+    font-size: 1.5rem;
+    line-height: 3.5rem;
+    margin-right: 1rem;
+  }
+  
+  .social-icons a:last-child {
+    margin-right: 0;
+  }
+  
+  .social-icons a:hover {
+    background-color: #593532;
+  }
